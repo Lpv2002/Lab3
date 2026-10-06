@@ -176,10 +176,10 @@ jobs:
           key: nvd-${{ github.run_id }}
           restore-keys: nvd-
 
-      # failBuildOnCVSS=11 nunca se alcanza: el job genera el reporte completo
+      # Un umbral de 11 nunca se alcanza: el job genera el reporte completo
       # y el Quality Gate decide si los hallazgos bloquean.
       - name: Run OWASP Dependency-Check
-        run: mvn -B org.owasp:dependency-check-maven:check -DfailBuildOnCVSS=11
+        run: mvn -B org.owasp:dependency-check-maven:check -Dodc.failBuildOnCVSS=11
 
       - name: Upload Dependency-Check report
         uses: actions/upload-artifact@v4
