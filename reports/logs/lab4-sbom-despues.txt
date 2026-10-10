@@ -1,0 +1,22 @@
+INICIO=2026-10-09 21:53:36
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------< bo.edu.devsecops:springboot-devsecops-lab >--------------
+[INFO] Building springboot-devsecops-lab 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- cyclonedx:2.9.3:makeAggregateBom (default-cli) @ springboot-devsecops-lab ---
+[INFO] CycloneDX: Resolving Dependencies
+[INFO] CycloneDX: Creating BOM version 1.6 with 53 component(s)
+[INFO] CycloneDX: Writing and validating BOM (JSON): C:\Users\hp\Desktop\Lab3\spring-boot-webapi-secure\target\bom.json
+[WARNING] Unknown keyword meta:enum - you should define your own Meta Schema. If the keyword is irrelevant for validation, just use a NonValidationKeyword or if it should generate annotations AnnotationKeyword
+[WARNING] Unknown keyword deprecated - you should define your own Meta Schema. If the keyword is irrelevant for validation, just use a NonValidationKeyword or if it should generate annotations AnnotationKeyword
+[INFO]            attaching as springboot-devsecops-lab-1.0.0-cyclonedx.json
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  25.434 s
+[INFO] Finished at: 2026-10-09T21:54:15-04:00
+[INFO] ------------------------------------------------------------------------
+EXIT=0
