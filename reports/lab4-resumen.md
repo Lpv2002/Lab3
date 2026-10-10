@@ -84,12 +84,12 @@ Quedan 52 hallazgos, todos en dependencias transitivas administradas por Spring 
 | Componente | Versión | Hallazgos | Severidad máxima |
 |---|---|---|---|
 | `tomcat-embed-core` | 10.1.54 | 10 | CRITICAL |
-| `spring-webmvc` | 6.2.18 | 10 | CRITICAL |
+| `spring-webmvc` | 6.2.18 | 9 | CRITICAL |
 | `jackson-databind` | 2.21.2 | 16 | HIGH |
 | `jackson-core` | 2.21.2 | 3 | HIGH |
 | `spring-expression` | 6.2.18 | 3 | HIGH |
 | `micrometer-core` | 1.15.11 | 2 | HIGH |
-| otros (`spring-web`, `spring-core`, `spring-security-web`, `spring-boot-autoconfigure`, `logback-core`, `log4j-api`, `commons-lang3`) | — | 8 | MEDIUM |
+| otros (`spring-web`, `spring-core`, `spring-security-web`, `spring-boot-autoconfigure`, `logback-core`, `log4j-api`, `commons-lang3`) | — | 9 | MEDIUM |
 
 La vía recomendada es actualizar el parent de Spring Boot a la versión de parche
 siguiente (3.5.15 o posterior), que eleva en conjunto Tomcat, Spring Framework,
