@@ -1,0 +1,11 @@
+INICIO=2026-10-09 21:27:36
+
+    ○
+    │╲
+    │ ○
+    ○ ░
+    ░    gitleaks
+
+1:27AM INF scanned ~38 bytes (38 bytes) in 563ms
+1:27AM WRN leaks found: 1
+EXIT=1

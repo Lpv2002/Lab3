@@ -1,4 +1,4 @@
-﻿INICIO=2026-10-09 20:49:34
+INICIO=2026-10-09 20:49:34
 Using the Automation Framework
 Total of 88 URLs
 PASS: Vulnerable JS Library (Powered by Retire.js) [10003]

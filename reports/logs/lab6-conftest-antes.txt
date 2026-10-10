@@ -1,4 +1,4 @@
-﻿INICIO=2026-10-09 21:24:56
+INICIO=2026-10-09 21:24:56
 FAIL - compose-lab.yaml - main - Servicio app: privileged=true no permitido
 
 1 test, 0 passed, 0 warnings, 1 failure, 0 exceptions
