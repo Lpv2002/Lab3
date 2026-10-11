@@ -1,0 +1,6 @@
+INICIO=2026-10-09 19:10:51
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 65.57 s -- in bo.edu.devsecops.DevSecOpsLabApplicationTests
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+[INFO] BUILD SUCCESS
+[INFO] Total time:  01:53 min
+EXIT=0

@@ -1,0 +1,15 @@
+INICIO=2026-10-09 21:46:20
+2026-10-10T01:46:21Z	INFO	[vuln] Vulnerability scanning is enabled
+2026-10-10T01:46:43Z	INFO	Detected OS	family="debian" version="11.9"
+2026-10-10T01:46:43Z	INFO	[debian] Detecting vulnerabilities...	os_version="11" pkg_num=137
+2026-10-10T01:46:43Z	INFO	Number of language-specific files	num=0
+2026-10-10T01:46:43Z	WARN	Using severities from other vendors for some vulnerabilities. Read https://trivy.dev/docs/v0.74/guide/scanner/vulnerability#severity-selection for details.
+2026-10-10T01:46:44Z	WARN	This OS version is no longer supported by the distribution	family="debian" version="11.9"
+2026-10-10T01:46:44Z	WARN	The vulnerability detection may be insufficient because security updates are not provided
+
+📣 Notices:
+  - Version 0.75.0 of Trivy is now available, current version is 0.74.0
+
+To suppress version checks, run Trivy scans with the --skip-version-check flag
+
+EXIT=0

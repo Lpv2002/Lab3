@@ -1,0 +1,12 @@
+INICIO=2026-10-09 21:28:16
+
+    ○
+    │╲
+    │ ○
+    ○ ░
+    ░    gitleaks
+
+1:32AM INF 28 commits scanned.
+1:32AM INF scanned ~3843009 bytes (3.84 MB) in 3m41s
+1:32AM INF no leaks found
+EXIT=0
